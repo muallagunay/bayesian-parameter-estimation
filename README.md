@@ -1,1 +1,1 @@
-# bayesian-parameter-estimation
+# Bayesian Parameter Estimation Method
